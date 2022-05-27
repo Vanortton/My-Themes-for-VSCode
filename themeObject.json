@@ -1,7 +1,6 @@
-{
-    "workbench.colorCustomizations": {
-        "foreground": "#b63838",
-        "focusBorder": "#b63838",
+"workbench.colorCustomizations": {
+        "foreground": "#c93030",
+        "focusBorder": "#d61a1a",
         "selection.background": "#b63838",
         "scrollbar.shadow": "#171717",
         "activityBar.foreground": "#df4747",
@@ -38,8 +37,8 @@
         "statusBar.noFolderForeground": "#ffffff",
         "statusBarItem.remoteBackground": "#16825d",
         "statusBarItem.remoteForeground": "#ffffff",
-        "titleBar.activeBackground": "#141414",
-        "titleBar.activeForeground": "#c44b4b",
+        "titleBar.activeBackground": "#0c0c0c",
+        "titleBar.activeForeground": "#c53434",
         "titleBar.inactiveBackground": "#11111199",
         "titleBar.inactiveForeground": "#9b9b9b99",
         "titleBar.border": "#00000000",
@@ -148,13 +147,13 @@
         "editorGroupHeader.tabsBackground": "#171717",
         "editorGroupHeader.tabsBorder": "#85070771",
         "tab.activeForeground": "#da5b5b",
-        "tab.border": "#252526",
+        "tab.border": "#363636",
         "tab.activeBackground": "#161616",
-        "tab.activeBorder": "#00000000",
-        "tab.activeBorderTop": "#00000000",
+        "tab.activeBorder": "#85070771",
+        "tab.activeBorderTop": "#d11111cb",
         "tab.inactiveBackground": "#202020fd",
         "tab.inactiveForeground": "#a3a3a3ad",
-        "scrollbarSlider.background": "#94777766",
+        "scrollbarSlider.background": "#83838366",
         "scrollbarSlider.hoverBackground": "#e9353566",
         "scrollbarSlider.activeBackground": "#b42424b3",
         "progressBar.background": "#b63838",
@@ -255,4 +254,3 @@
         "debugExceptionWidget.background": "#333333",
         "debugExceptionWidget.border": "#474747"
     }
-}
