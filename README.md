@@ -1,2 +1,2 @@
-# Theme-DarkRed-VSCode
-Tema noturno com vermelho para VSCode
+# My themes for VSCode
+Aqui estão os temas que criei para o VSCode.
